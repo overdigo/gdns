@@ -8,7 +8,7 @@ This tool lets you quickly compare the performance of multiple DNS servers in a 
 
 ![gdns Demo](https://raw.githubusercontent.com/overdigo/gdns/refs/heads/main/gdns.png) 
 
-*(This is a sample GIF, you can replace it with a real recording of gdns in action!)*
+*(This is a sample of gdns in action!)*
 
 ## Features
 
