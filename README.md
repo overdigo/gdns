@@ -22,8 +22,8 @@ This tool lets you quickly compare the performance of multiple DNS servers in a 
 To get started, clone the repository and set up the Python virtual environment.
 
 ```bash
-# 1. Clone the repository (replace with your username)
-git clone https://github.com/your-username/gdns.git
+# 1. Clone the repository
+git clone https://github.com/overdigo/gdns.git
 
 # 2. Navigate to the project directory
 cd gdns
